@@ -1,0 +1,21 @@
+grau 1-5
+
+grau 1 - hp 100-200
+geralmente sao frageis, fracos e tomam
+dano critico,
+nao esquivam
+defesa quase nunca bem sucedida
+bixos como abelhas, slimes, esqueletos...
+
+grau 2 - hp 200 - 400
+tem resistencia baixa, dao pouco dano
+tomam dano cheio,
+esquivam, defendem as vezes.
+bixos como zumbis, 
+
+grau 3 - hp 400 - 600
+
+grau 4 - hp 600 - 1000
+
+grau 5 - hp 1000 - 2000
+
